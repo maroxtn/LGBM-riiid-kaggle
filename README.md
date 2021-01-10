@@ -1,6 +1,6 @@
 
 ## What is this ?
-This is my LGBM solution for Riiid [kaggle competition](https://www.kaggle.com/c/riiid-test-answer-prediction), this model ensembled with a transformer allowed me to reach the 39th position out of 3395 (2% silver tier).
+This is my LGBM solution for Riiid [kaggle competition](https://www.kaggle.com/c/riiid-test-answer-prediction). This model ensembled with a transformer allowed me to reach the 39th position out of 3395 (2% silver tier).
 
 
 #### The files are:
