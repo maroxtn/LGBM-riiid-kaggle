@@ -12,8 +12,7 @@ This is my LGBM solution for Riiid [kaggle competition](https://www.kaggle.com/c
 - `generate-corr.py`: Generating questions' correlation data frame
 - `heat_pickle`: pickle file containing the data frame of correlation data.
 
-
-
+----
 **Used hardware**: Google cloud 256 GB ram, 16 vCPUs. The dataset is really big, and it needs so much memory and expensive hardware.
 
 ----
@@ -21,4 +20,6 @@ This is my LGBM solution for Riiid [kaggle competition](https://www.kaggle.com/c
 - 100M rows 
 - 300k + Users
 - 18k questions
+
 For more information, please refer to the challenge page.
+My kaggle account: https://www.kaggle.com/abdessalemboukil
