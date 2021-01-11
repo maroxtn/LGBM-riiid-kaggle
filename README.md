@@ -14,6 +14,7 @@ This is my LGBM solution for Riiid [kaggle competition](https://www.kaggle.com/c
 
 ----
 **Used hardware**: Google cloud 256 GB ram, 16 vCPUs. The dataset is really big, and it needs so much memory and expensive hardware.
+![heatmap](https://imgur.com/download/swsmDjE/)
 
 ----
 ###   Notes on the dataset:
